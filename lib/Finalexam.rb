@@ -1,5 +1,5 @@
 class Finalexam
-	
+	A = 5
 	l = 1
 	def lovemac(numbers)
 		l = 1
@@ -17,5 +17,6 @@ class Finalexam
 	l = l + 1
 		
 	end
+end
 
 end
