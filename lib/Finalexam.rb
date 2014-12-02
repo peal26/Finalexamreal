@@ -17,8 +17,5 @@ class Finalexam
 	l = l + 1
 		
 	end
-	
-	
-
 
 end
